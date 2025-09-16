@@ -3,7 +3,7 @@
 [![pz2-tabl2.png](https://i.postimg.cc/fTS91PC8/pz2-tabl2.png)](https://postimg.cc/8jDc6tqv)
 [![pz2-tabl1.png](https://i.postimg.cc/m22JTQJz/pz2-tabl1.png)](https://postimg.cc/vDk3z6Qb)
 ## Код
-Розташован в PZ2.src
+Розташован в src
 
 ```Java
 public class PZ2 {
